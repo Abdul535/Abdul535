@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A full stack Creative developer from India, Hyderabad.</h3>
+<h3 align="center">A full stack Creative Developer from India, Hyderabad.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdul535&label=Profile%20views&color=0e75b6&style=flat" alt="Abdul535" /> </p>
 
