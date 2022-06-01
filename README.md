@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A full stack developer from India, Hyderabad.</h3>
+<h3 align="center">A full stack Creative developer from India, Hyderabad.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdul535&label=Profile%20views&color=0e75b6&style=flat" alt="Abdul535" /> </p>
 
@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://twitter.com/047_Abdul" target="blank"><img src="https://img.shields.io/twitter/follow/047_Abdul?logo=twitter&style=for-the-badge" alt="047_Abdul" /></a> </p>
 
 
-- 🌱 I’m currently learning **React, Solidity, Rust, Kubernetes**
+- 🌱 I’m currently learning **React, Threejs**
 
-- 💬 Ask me about **React, UI/UX, Nodejs, Express, JavaScript, CSS, SASS**
+- 💬 Ask me about **React, UI/UX, Nodejs, Express, JavaScript, CSS**
 
 - 📫 How to reach me **syedabdullah535@gmail.com**
 
