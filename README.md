@@ -6,7 +6,9 @@
 <h3 align="center">A full stack Creative Developer from India, Hyderabad.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdul535&label=Profile%20views&color=0e75b6&style=flat" alt="Abdul535" /> </p>
-<a  href="https://app.daily.dev/abdul_047"><img align="right" src="https://api.daily.dev/devcards/4fe4a49ee1e44833869dbd515c349bde.png?r=qr3" width=auto height="370" alt="Abdullah's Dev Card"/></a>
+
+<!-- <a  href="https://app.daily.dev/abdul_047"><img align="right" src="https://api.daily.dev/devcards/4fe4a49ee1e44833869dbd515c349bde.png?r=qr3" width=auto height="370" alt="Abdullah's Dev Card"/></a> -->
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abdul535" alt="Abdul535" /></a> </p>
 
 
