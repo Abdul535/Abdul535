@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/047_Abdul" target="blank"><img src="https://img.shields.io/twitter/follow/047_Abdul?logo=twitter&style=for-the-badge" alt="047_Abdul" /></a> </p>
 
-
+<hr />
 
 - 🌱 I’m currently learning **React, Threejs**
 
@@ -24,6 +24,8 @@
 
 - ⚡ Fun fact **I love JavaScript**
 
+<hr />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://dev.to/Abdul535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Abdul535" height="30" width="40" /></a> -->
@@ -32,6 +34,8 @@
 <a href="https://linkedin.com/in/syed-abdullah-2b0b6b18b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-abdullah-2b0b6b18b" height="30" width="40" /></a>
 <a href="https://instagram.com/abdul_047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul_047" height="30" width="40" /></a>
 </p>
+
+<hr />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
