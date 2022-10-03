@@ -93,6 +93,17 @@
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/zubairself"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zubairself" /></a></p><br><br> -->
 
+<hr />
+
+<h2 align="left"> <img src="https://i.imgur.com/7kJWL1n.png" alt="Mongodb Logo - Mongodb Logo Transparent@seekpng.com" width="30px" height="60px">&nbsp;MongoDB Certification Paper's</h2>
+
+<ul>
+<li> <a href="https://university.mongodb.com/course_completion/caf559d9-e40c-4b06-9c3b-2fa854a21c3e
+"alt="<b>M001:MongoDB Basics</b>"> <b>M001:MongoDB Basics</b> </a> 
+</ul>
+
+<hr />
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdul535&show_icons=true&locale=en&layout=compact" alt="Abdul535" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdul535&show_icons=true&locale=en" alt="Abdul535" /></p>
