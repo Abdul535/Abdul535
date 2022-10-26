@@ -22,6 +22,8 @@
 
 - 📫 How to reach me **syedabdullah535@gmail.com**
 
+- Mostly Active on Twitter @047_abdul
+
 - ⚡ Fun fact **I love JavaScript**
 
 <hr />
