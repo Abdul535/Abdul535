@@ -16,7 +16,7 @@
 
 <hr />
 
-- 🌱 I’m currently learning **React, Threejs**
+- 🌱 I’m currently learning **Solidity, Go and Threejs**
 
 - 💬 Ask me about **React, UI/UX, Nodejs, Express, JavaScript, CSS**
 
