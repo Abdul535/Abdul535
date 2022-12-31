@@ -33,7 +33,7 @@
 <!-- <a href="https://dev.to/Abdul535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Abdul535" height="30" width="40" /></a> -->
   
 <a href="https://twitter.com/047_Abdul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="047_Abdul" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdul047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-abdullah-2b0b6b18b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdul047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul047" height="30" width="40" /></a>
 <a href="https://instagram.com/abdul_047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul_047" height="30" width="40" /></a>
 </p>
 
