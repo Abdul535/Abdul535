@@ -146,6 +146,14 @@
 <ul>
 <li> <a href="https://university.mongodb.com/course_completion/caf559d9-e40c-4b06-9c3b-2fa854a21c3e
 "alt="<b>M001:MongoDB Basics</b>"> <b>M001:MongoDB Basics</b> </a> 
+
+  <li> <a href="https://learn.mongodb.com/c/2wsL2N8cRfmEGudDn7wRKg
+"alt="<b>MongoDB Database Administrator Tools</b>"> <b>MongoDB Database Administrator Tools</b> </a> 
+
+<li> <a href="https://learn.mongodb.com/c/Wi85TsHkTMiRAtvenI7elA
+"alt="<b>Data Modeling for MongoDB </b>"> <b>MongoDB Data Modeling</b> </a>
+
+    
 </ul>
 
 <hr />
