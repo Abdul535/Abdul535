@@ -16,7 +16,7 @@
 
 <hr />
 
-- 🌱 I’m currently learning *Go, K8s and AWS**
+- 🌱 I’m currently learning **Go, K8s and AWS**
 
 - 💬 Ask me about **React, UI/UX, Nodejs, Express, JavaScript, CSS**
 
