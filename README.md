@@ -16,7 +16,7 @@
 
 <hr />
 
-- 🌱 I’m currently learning **Solidity, Go and Threejs**
+- 🌱 I’m currently learning *Go, K8s and AWS**
 
 - 💬 Ask me about **React, UI/UX, Nodejs, Express, JavaScript, CSS**
 
@@ -24,7 +24,7 @@
 
 - Mostly Active on Twitter @047_abdul
 
-- ⚡ Fun fact **I love JavaScript**
+- ⚡ Fun fact **I used to love JavaScript**
 
 <hr />
 
