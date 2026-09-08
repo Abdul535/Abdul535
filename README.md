@@ -16,15 +16,9 @@
 
 <hr />
 
-- 🌱 I’m currently learning **Go, K8s and AWS**
-
-- 💬 Ask me about **React, UI/UX, Nodejs, Express, JavaScript, CSS**
-
 - 📫 How to reach me **syedabdullah535@gmail.com**
 
 - Mostly Active on Twitter @047_abdul
-
-- ⚡ Fun fact **I used to love JavaScript**
 
 <hr />
 
