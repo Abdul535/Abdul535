@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **syedabdullah535@gmail.com**
 
-- Mostly Active on Twitter @047_abdul
+- Mostly Active on X @047_abdul
 
 <hr />
 
