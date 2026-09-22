@@ -5,14 +5,12 @@
 <hr />
 
 - 📫 How to reach me **syedabdullah535@gmail.com**
-
 - Mostly Active on X @047_abdul
 
 <hr />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  
 <a href="https://twitter.com/047_Abdul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="047_Abdul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdul047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul047" height="30" width="40" /></a>
 <a href="https://instagram.com/abdul_047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul_047" height="30" width="40" /></a>
@@ -23,8 +21,6 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">
@@ -103,11 +99,6 @@
 
 <br/>  
 
-
-
-
-
-
 <hr />
 
 <h2 align="left">🏆 Certification</h2>
@@ -119,7 +110,7 @@
 <li> <a href="https://university.mongodb.com/course_completion/caf559d9-e40c-4b06-9c3b-2fa854a21c3e
 "alt="<b>M001:MongoDB Basics</b>"> <b>M001:MongoDB Basics</b> </a> 
 
-  <li> <a href="https://learn.mongodb.com/c/2wsL2N8cRfmEGudDn7wRKg
+<li> <a href="https://learn.mongodb.com/c/2wsL2N8cRfmEGudDn7wRKg
 "alt="<b>MongoDB Database Administrator Tools</b>"> <b>MongoDB Database Administrator Tools</b> </a> 
 
 <li> <a href="https://learn.mongodb.com/c/Wi85TsHkTMiRAtvenI7elA
