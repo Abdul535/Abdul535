@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abdullah</h1>
-<h3 align="center">A full stack + AI Developer from India, Hyderabad.</h3>
+<h3 align="center">A full stack + AI Developer from Hyderabad, India.</h3>
 
 
 <hr />
