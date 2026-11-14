@@ -101,7 +101,7 @@
 
 <hr />
 
-<h2 align="left">🏆 Certification</h2>
+<h2 align="left">Certification</h2>
 
 <ul>
 
