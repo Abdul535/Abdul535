@@ -4,7 +4,7 @@
 
 <hr />
 
-- 📫 How to reach me **syedabdullah535@gmail.com**
+- How to reach me **syedabdullah535@gmail.com**
 - Mostly Active on X @047_abdul
 
 <hr />
